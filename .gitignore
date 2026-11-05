@@ -1,0 +1,8 @@
+build/
+dist/
+.DS_Store
+
+# Local working files
+/splix-src/
+/reserve-ppd/
+/testpage.pdf
