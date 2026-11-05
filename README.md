@@ -1,4 +1,4 @@
-# ML-1520 for macOS
+# Samsung ML-1520 (ML1520) driver for Mac
 
 Print on a Samsung ML-1520 laser printer from a current Mac. Samsung's Mac drivers are
 Intel-only and have no ML-1520 profile. This project needs no Rosetta, no PPD driver and no
